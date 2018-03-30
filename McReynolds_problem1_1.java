@@ -1,4 +1,4 @@
-/* Name: Mihaela McReynolds
+/* Name: M
  * Lab 5h
  * Homework 5 (problem 1)
  * Date: 3/25/2018
@@ -14,10 +14,10 @@ These characters correspond to Shift+1 through Shift+8 on the keyboard)
 Password must contain at least one digit, at least one letter, and at least one 
 special character from the set defined in the point above.
 */
-package mcreynolds_problem1;
+package m_problem1;
 import java.util.Scanner;
 
-public class McReynolds_problem1_1 {
+public class M_problem1_1 {
     
     /** Main method */
     public static void main(String[] args){
